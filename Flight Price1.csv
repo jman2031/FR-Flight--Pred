@@ -1,20 +1,4 @@
-﻿Airline,Date_of_Journey,Source,Destination,Dep_Time,Arrival_Time,Duration,Total_Stops,Price
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
+Airline,Date_of_Journey,Source,Destination,Dep_Time,Arrival_Time,Duration,Total_Stops,Price
 SpiceJet,15-04-2022,Delhi,Cochin,08:45:00,13:15,4h 30m,1 stop,5830
 Jet Airways,12-06-2022,Delhi,Cochin,14:00:00,12:35 13 ,22h 35m,1 stop,10262
 Air India,12-06-2022,Delhi,Cochin,20:15:00,19:15 13 ,23h,2 stops,13381
